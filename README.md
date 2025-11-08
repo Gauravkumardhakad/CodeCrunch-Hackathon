@@ -135,3 +135,9 @@ Predicted GI Disease Label
 ```
 
 ## Model Performance Summary
+| **Metric** | **Value (%)** | **Description** |
+| --- | --- | --- |
+| **Accuracy** | 52% | The model correctly classified 52% of all validation images. |
+| **Precision** | 21.60% | On average, 21.60% of the model’s positive predictions were correct. |
+| **Recall** | 20.82% | The model correctly detected 20.82% of all disease cases. |
+| **F1-Score** | 18.78% |  |
